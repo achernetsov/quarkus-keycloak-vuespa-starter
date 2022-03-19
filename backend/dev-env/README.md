@@ -35,3 +35,10 @@ See application.properties: quarkus.oidc
 
 See https://quarkus.io/guides/security-keycloak-authorization
 
+## Resources
+- https://blog.codecentric.de/en/2021/12/keycloak-keycloak-x/
+- https://www.keycloak.org/2020/12/first-keycloak-x-release.adoc
+- https://keycloak.discourse.group/t/differences-between-keycloak-and-keycloak-x-docker-images/9459/4
+- https://github.com/keycloak/keycloak-containers/blob/16.1.1/server/README.md
+- https://github.com/keycloak/keycloak-community/blob/main/design/keycloak.x/configuration.md#databaseq
+- Usage from app: https://quarkus.io/guides/security-keycloak-authorization
